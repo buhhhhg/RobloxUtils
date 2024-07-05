@@ -1,3 +1,6 @@
+# THIS IS DISCONTINUED
+## Original description below.
+
 # RobloxUtils
 python program made by a beginner coder (me)
 
